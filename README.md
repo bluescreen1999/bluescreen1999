@@ -37,3 +37,5 @@ var myInformation = new PersonalInformation()
     }
 }
 ```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluescreen1999&layout=compact)
