@@ -88,6 +88,6 @@ var myInformation = new PersonalInformation()
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluescreen1999&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluescreen1999&layout=compact)
