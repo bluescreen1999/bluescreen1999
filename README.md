@@ -74,10 +74,11 @@ var myInformation = new PersonalInformation()
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-<h3>Code Repositories:</h3>
+<h3>VersionControl & Code Repository:</h3>
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <h3>Testing & Documenting APIs</h3>
 
@@ -88,6 +89,5 @@ var myInformation = new PersonalInformation()
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluescreen1999&theme=dark&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluescreen1999&layout=compact)
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluescreen1999&theme=dark&show_icons=true)
